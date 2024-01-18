@@ -40,7 +40,7 @@ body{
 /* intro to villas */
 
 .intro_img{
-    background-image: url(/villasimg/banner-01.jpg);
+    background-image: url(villasimg/banner-01.jpg);
     height: 100vh;
     background-repeat: no-repeat;
     width: 100vw;
